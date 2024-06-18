@@ -1,0 +1,32 @@
+{
+    "plugin1": {
+        "k": 10,
+        "model_name": "gpt-3.5-turbo-0125"
+    },
+    "plugin3": {
+        "k1": 100,
+        "k2": 2,
+        "attr_list": ["title", "genres", "director", "actors", "release date", "runtime", "rating", "language"],
+        "model_name": "gpt-3.5-turbo-0125"
+    },
+    "plugin4": {
+        "model_name": "gpt-3.5-turbo-0125"
+    },
+    "plugin5":{
+        "model_name": "gpt-3.5-turbo-0125",
+        "trigger": ["genres", "director", "actors", "release date"]
+    },
+    "plugin6": {
+        "attr_list": ["title", "genres", "director", "actors", "release date", "runtime", "rating", "language"],
+        "model_name": "gpt-3.5-turbo-0125"
+    },
+    "plugin7": {
+        "model_name": "gpt-3.5-turbo-0125"
+    },
+    "plugin8": {
+        "model_name": "gpt-3.5-turbo-0125"
+    },
+    "plugin9": {
+        "model_name": "gpt-3.5-turbo-0125"
+    }
+}

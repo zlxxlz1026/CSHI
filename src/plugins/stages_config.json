@@ -1,0 +1,32 @@
+{
+    "user_profile_init" : {
+        "plugin2": {
+            "priority": 1
+        }
+    },
+    "real_time_preference_init": {
+        "plugin3": {
+            "priority": 1
+        }
+    },
+    "handle_message": {
+        "plugin6": {
+            "priority": 1
+        },
+        "plugin4": {
+            "priority": 3
+        },
+        "plugin5": {
+            "priority": 2
+        },
+        "plugin7": {
+            "priority": 4
+        },
+        "plugin8": {
+            "priority": 5
+        },
+        "plugin9": {
+            "priority": 6
+        }
+    }
+}

@@ -1,0 +1,1 @@
+from .plugin3 import *

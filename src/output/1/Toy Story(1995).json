@@ -1,0 +1,38 @@
+{
+    "target_items": [
+        "Toy Story(1995)"
+    ],
+    "info_dict": {
+        "title": "Toy Story (1995)",
+        "genres": "Animation, Adventure, Comedy, Family, Fantasy",
+        "director": "John Lasseter",
+        "actors": "Tom Hanks, Tim Allen, Don Rickles, Jim Varney, Wallace Shawn",
+        "release date": "90s",
+        "runtime": "about 1h ~ 2h",
+        "rating": "8.3/10",
+        "language": "English"
+    },
+    "oai_messages": [],
+    "turn": 0,
+    "real_time_preference_list": [
+        "I am looking for an animated adventure comedy movie that is suitable for the whole family. I would love to see some fantasy elements in the movie as well. I prefer movies with a runtime of about 1 to 2 hours. Additionally, I would be thrilled to see actors like Tom Hanks, Tim Allen, Don Rickles, Jim Varney, and Wallace Shawn in the movie."
+    ],
+    "init_known_tag_dict": {
+        "genres": "Animation, Adventure, Comedy, Family, Fantasy",
+        "actors": "Tom Hanks, Tim Allen, Don Rickles, Jim Varney, Wallace Shawn",
+        "runtime": "about 1h ~ 2h"
+    },
+    "init_unknown_tag_dict": {
+        "director": "John Lasseter",
+        "release date": "90s"
+    },
+    "known_tag_dict": {
+        "genres": "Animation, Adventure, Comedy, Family, Fantasy",
+        "actors": "Tom Hanks, Tim Allen, Don Rickles, Jim Varney, Wallace Shawn",
+        "runtime": "about 1h ~ 2h"
+    },
+    "unknown_tag_dict": {
+        "director": "John Lasseter",
+        "release date": "90s"
+    }
+}
