@@ -2,14 +2,16 @@
 
 ### 📺Demo
 
+---
+
 #### CSHI-Based User Simulator
 
 ![](./assets/1.png)
 
-![](.\assets\2.png)
+![](./assets/2.png)
 
-![](.\assets\3.png)
+![](./assets/3.png)
 
 #### Single-prompt User Simulator
 
-![](.\assets\4.png)
+![](./assets/4.png)
